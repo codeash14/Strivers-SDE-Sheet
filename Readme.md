@@ -13,14 +13,14 @@
 6- Stock Buy and Sell : [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/StockBuyAndSell.py)
 
 ## Day 2
-1 - Rotate Matrix Elements in spiral order : [Problem](https://bit.ly/3rhVUWx) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/SetMatrixZeroes.py)
+1 - Rotate Matrix Elements in spiral order : [Problem](https://bit.ly/3rhVUWx) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/RotateMatrix.py)
 
-2 - Merge Overlapping Subintervals : [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/PascalsTriangle.py)
+2 - Merge Overlapping Subintervals : [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/MergeOverlappingSubintervals.py)
 
-3 - Merge Two Sorted Arrays without extra spaces : [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/NextPermutation.py)
+3 - Merge Two Sorted Arrays without extra spaces : [Problem](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/Merge2SortedArrays.py)
 
-4 - Find the duplicate in an array of N+1 integers : [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/KadanesAlgorithm.py)
+4 - Find the duplicate in an array of N+1 integers : [Problem](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/FindDuplicate.py)
 
-5 - Repeat and Missing Numbers : [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/SortAnArrayof0s1sAnd2s.py)
+5 - Repeat and Missing Numbers : [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/Repeat%26Missing.py)
 
-6- Inversion of Array (pre-req : Merge Sort) : [Problem](https://www.codingninjas.com/codestudio/problems/count-inversions_615) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/StockBuyAndSell.py)
+6- Inversion of Array (pre-req : Merge Sort) : [Problem](https://www.codingninjas.com/codestudio/problems/count-inversions_615) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/ArrayInversion.py)
