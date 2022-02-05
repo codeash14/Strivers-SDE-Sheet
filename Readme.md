@@ -13,7 +13,7 @@
 6- Stock Buy and Sell : [Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/StockBuyAndSell.py)
 
 ## Day 2
-1 - Rotate Matrix Element in spiral order : [Problem](https://bit.ly/3rhVUWx) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/SetMatrixZeroes.py)
+1 - Rotate Matrix Elements in spiral order : [Problem](https://bit.ly/3rhVUWx) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/SetMatrixZeroes.py)
 
 2 - Merge Overlapping Subintervals : [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/PascalsTriangle.py)
 
