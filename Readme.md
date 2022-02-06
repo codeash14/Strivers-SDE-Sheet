@@ -24,3 +24,16 @@
 5 - Repeat and Missing Numbers : [Problem](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/Repeat%26Missing.py)
 
 6- Inversion of Array (pre-req : Merge Sort) : [Problem](https://www.codingninjas.com/codestudio/problems/count-inversions_615) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/ArrayInversion.py)
+
+## Day 3
+1 - Search in 2D Matrix : [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/RotateMatrix.py)
+
+2 - Pow(X,n) : [Problem](https://leetcode.com/problems/powx-n/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/MergeOverlappingSubintervals.py)
+
+3 - Majority Element (>N/2 times) : [Problem](https://leetcode.com/problems/majority-element/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/Merge2SortedArrays.py)
+
+4 - Majority Element (>N/3 times) : [Problem](https://leetcode.com/problems/majority-element-ii/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/FindDuplicate.py)
+
+5 - Grid Unique Paths : [Problem](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/Repeat%26Missing.py)
+
+6- Reverse Pair : [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/ArrayInversion.py)
