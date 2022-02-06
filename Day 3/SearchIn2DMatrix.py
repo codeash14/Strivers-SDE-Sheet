@@ -14,16 +14,15 @@ class Solution:
 '''
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
-        p,q=0,len(matrix)-1
-        while(q>=p):
-            mid=p+(q-p)//2
-            #print(mid)
-            if target in matrix[mid]:
+        m,n=len(matrix),len(matrix[0])
+        beg,end=0,(m*n)-1
+        while(end>=beg):
+            mid=beg+(end-beg)//2
+            if matrix[mid//n][mid%n]==target:
                 return True
-            elif target<matrix[mid][0]:
-                q=mid-1
+            if matrix[mid//n][mid%n]<target:
+                beg=mid+1
             else:
-                p=mid+1
-            
+                end=mid-1
         return False
 '''
