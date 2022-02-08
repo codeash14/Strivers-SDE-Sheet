@@ -1,4 +1,4 @@
-# [Striver's SDE Sheet] (https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - [Code Studio](https://www.codingninjas.com/codestudio)
+# [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - [Code Studio](https://www.codingninjas.com/codestudio)
 ## Day 1 - Arrays I
 1 - Set Matrix Ones : [Problem](https://www.codingninjas.com/codestudio/problems/set-matrix-ones_981213?leftPanelTab=0) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%201/SetMatrixOnes.py)
 
