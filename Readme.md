@@ -19,7 +19,7 @@
 
 3 - Merge Two Sorted Arrays without extra spaces : [Problem](https://bit.ly/33umm7e) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/Merge2SortedArrays.py)
 
-4 - Find the duplicate in an array of N+1 integers : [Problem](https://bit.ly/3GtKDJb) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/FindDuplicate.py)
+4 - Find the duplicates in an array of N+1 integers : [Problem](https://bit.ly/3GtKDJb) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/FindDuplicate.py)
 
 5 - Repeat and Missing Numbers : [Problem](https://bit.ly/3Gs6wZu) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%202/Repeat%26Missing.py)
 
@@ -28,7 +28,7 @@
 ## Day 3 - Arrays III
 1 - Search in 2D Matrix : [Problem](https://bit.ly/3GD7NNa) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/SearchIn2DMatrix.py)
 
-2 - Pow(X,n) : [Problem](https://bit.ly/3Gtjwhl) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/Powxn.py)
+2 - Pow(X,n) - Modular Exponentiation : [Problem](https://bit.ly/3Gtjwhl) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/Powxn.py)
 
 3 - Majority Element (>N/2 times) : [Problem](https://bit.ly/3FpfpBQ) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/MajorityElementNby2.py)
 
@@ -39,14 +39,14 @@
 6 - Reverse Pair : [Problem](https://bit.ly/3tm5PgF) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/ReversePair.py)
 
 ## Day 4 - Arrays IV
-1 - 2-Sum Problem : [Problem](https://bit.ly/3riXBmz) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/SearchIn2DMatrix.py)
+1 - Pair Sum (2-Sum Problem) : [Problem](https://bit.ly/3riXBmz) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/SearchIn2DMatrix.py)
 
 2 - 4-Sum Problem : [Problem](https://bit.ly/3qpfEsj) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/Powxn.py)
 
 3 - Longest Consecutive Sequence : [Problem](https://bit.ly/34EoAS0) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/MajorityElementNby2.py)
 
-4 - Largest Subarray with 0 Sum : [Problem](https://bit.ly/31UHoeM) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/MajorityElementNby3.py)
+4 - Longest Subarray with 0 Sum : [Problem](https://bit.ly/31UHoeM) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/MajorityElementNby3.py)
 
-5 - Count Number of Subarrays with given XOR K : [Problem](https://bit.ly/3fp24yN) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/GridUniquePath.py)
+5 - Count Subarrays with given XOR : [Problem](https://bit.ly/3fp24yN) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/GridUniquePath.py)
 
-6 - Longest Substring without repeat : [Problem](https://bit.ly/3no44fb) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/ReversePair.py)
+6 - Longest Unique Substring : [Problem](https://bit.ly/3no44fb) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day%203/ReversePair.py)
