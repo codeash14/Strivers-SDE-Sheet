@@ -50,3 +50,16 @@
 5 - Count Subarrays with given XOR : [Problem](https://bit.ly/3fp24yN) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-4/CountSubarrayWithGivenXOR.py)
 
 6 - Longest Unique Substring : [Problem](https://bit.ly/3no44fb) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-4/LongestUniqueSubstring.py)
+
+## Day 5 - Linked List
+1 - Reverse a Linked List : [Problem](https://bit.ly/3qoE6K6) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/ReverseLL.py)
+
+2 - Find the middle of Linked List : [Problem](https://bit.ly/3KcRxoG) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/MiddleOfLL.py)
+
+3 - Merge two sorted Linked List (using Merge Sort) : [Problem](https://bit.ly/3qnbSj8) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/MergeTwoSortedLL.py)
+
+4 - Remove K-th node from back of Linked List : [Problem](https://bit.ly/3riZ4JB) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/RemoveKthNodeFromEnd.py)
+
+5 - Add two numbers as Linked List : [Problem](https://bit.ly/3qqbgcq) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/Add2NumAsLL.py)
+
+6 - Delete a given Node when a node is given : [Problem](https://bit.ly/3GqW4kN) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/DeleteAGivenNode.py)
