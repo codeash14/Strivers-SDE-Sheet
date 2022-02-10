@@ -47,7 +47,7 @@
 
 4 - Longest Subarray with 0 Sum : [Problem](https://bit.ly/31UHoeM) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-4/LongestSubarrayWith0Sum.py)
 
-5 - Count Subarrays with given XOR : [Problem](https://bit.ly/3fp24yN) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-4/CountSubarrayWithGivenXOR.py)
+5 - Count Subarrays with given XOR : [Problem](https://bit.ly/3fp24yN) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-4/CountSubarraysWithGivenXOR.py)
 
 6 - Longest Unique Substring : [Problem](https://bit.ly/3no44fb) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-4/LongestUniqueSubstring.py)
 
