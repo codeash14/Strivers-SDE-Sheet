@@ -14,7 +14,7 @@ def sortTwoLists(first, second):
     if not first or not second:
         return first or second
 
-    if first.val < second.val:
+    if first.data < second.data:
         first.next = sortTwoLists(first.next, second)
         return first
 
