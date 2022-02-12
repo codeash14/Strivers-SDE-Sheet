@@ -1,10 +1,65 @@
-if not list1 or not list2:
-            return list1 or list2
-        
-        if list1.val < list2.val:
-            list1.next = self.mergeTwoLists(list1.next, list2)
-            return list1
-        
-        else:
-            list2.next = self.mergeTwoLists(list1, list2.next)
-            return list2
+import sys
+from sys import stdin
+
+
+# Following is the linked list node structure:
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+
+def sortTwoLists(first, second):
+    # Write your code here.
+    if not first or not second:
+        return first or second
+
+    if first.val < second.val:
+        first.next = sortTwoLists(first.next, second)
+        return first
+
+    else:
+        second.next = sortTwoLists(first, second.next)
+        return second
+
+
+def ll(arr):
+
+    if len(arr) == 0:
+        return None
+
+    head = Node(arr[0])
+    last = head
+
+    for data in arr[1:]:
+
+        last.next = Node(data)
+        last = last.next
+
+    return head
+
+
+def printll(head):
+
+    while head:
+
+        print(head.data, end=' ')
+
+        head = head.next
+
+    print(-1)
+
+
+t = int(sys.stdin.readline().strip())
+
+for i in range(t):
+
+    arr1 = list(map(int, sys.stdin.readline().strip().split(" ")))
+    arr2 = list(map(int, sys.stdin.readline().strip().split(" ")))
+
+    l1 = ll(arr1[:-1])
+    l2 = ll(arr2[:-1])
+
+    l = sortTwoLists(l1, l2)
+
+    printll(l)
