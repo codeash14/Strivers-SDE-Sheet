@@ -63,3 +63,72 @@
 5 - Add two numbers as Linked List : [Problem](https://bit.ly/3qqbgcq) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/Add2NumAsLL.py)
 
 6 - Delete a given Node when a node is given : [Problem](https://bit.ly/3GqW4kN) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-5/DeleteAGivenNode.py)
+
+## Day 6 - Linked List II
+1 - Find Intersection point of Y LinkedList : [Problem](https://bit.ly/3fiMQeG) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-6/p1.py)
+
+2 - Detect a cycle in Linked List : [Problem](https://www.codingninjas.com/codestudio/problems/628974?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-6/p2.py)
+
+3 - Reverse a LinkedList in groups of size k : [Problem](https://www.codingninjas.com/codestudio/problems/763406?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-6/p3.py)
+
+4 - Check if a LinkedList is palindrome or not : [Problem](https://www.codingninjas.com/codestudio/problems/799352?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-6/p4.py)
+
+5 - Find the starting point of the Loop of LinkedList : [Problem](https://www.codingninjas.com/codestudio/problems/1112628?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-6/p5.py)
+
+6 - Flattening of a LinkedList : [Problem](https://www.codingninjas.com/codestudio/problems/1112655?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-6/p6.py)
+
+
+## Day 7 - Linked List and Arrays
+1 - Rotate a LinkedList : [Problem](https://www.codingninjas.com/codestudio/problems/920454?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-7/p1.py)
+
+2 - Clone a Linked List with random and next pointer : [Problem](https://www.codingninjas.com/codestudio/problems/873376?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-7/p2.py)
+
+3 - 3 sum : [Problem](https://www.codingninjas.com/codestudio/problems/893028?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-7/p3.py)
+
+4 - Trapping rainwater : [Problem](https://www.codingninjas.com/codestudio/problems/630519?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-7/p4.py)
+
+5 - Remove Duplicate from Sorted array : [Problem](https://www.codingninjas.com/codestudio/problems/1102307?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-7/p5.py)
+
+6 - Max consecutive ones : [Problem](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_892994?topList=striver-sde-sheet-problems) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-7/p6.py)
+
+
+## Day 8 - Greedy Algorithm
+1 - N meetings in one room : [Problem](https://www.codingninjas.com/codestudio/problems/1062658?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-8/p1.py)
+
+2 - Minimum number of platforms required for a railway : [Problem](https://www.codingninjas.com/codestudio/problems/799400?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-8/p2.py)
+
+3 - Job sequencing Problem : [Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-8/p3.py)
+
+4 - Fractional Knapsack Problem : [Problem](https://www.codingninjas.com/codestudio/problems/975286?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-8/p4.py)
+
+5 - Greedy algorithm to find minimum number of coins : [Problem](https://www.codingninjas.com/codestudio/problems/975277?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-8/p5.py)
+
+6 - Activity Selection (it is the same as N meeting in one room) : [Problem](https://www.codingninjas.com/codestudio/problems/1062712?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-8/p6.py)
+
+
+## Day 9 - Recursion
+1 - Subset Sum-I : [Problem](https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-9/p1.py)
+
+2 - Subset Sum-II : [Problem](https://bit.ly/3qnaLjq) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-9/p2.py)
+
+3 - Combination Sum-1 : [Problem](https://bit.ly/3qpmDS1) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-9/p3.py)
+
+4 - Combination Sum-2 : [Problem](https://bit.ly/3tkbtjk) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-9/p4.py)
+
+5 - Palindrome Partitioning : [Problem](https://bit.ly/3HZPNgs) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-9/p5.py)
+
+6 - K-th permutation sequence : [Problem](https://bit.ly/3KcCP0D) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-9/p6.py)
+
+
+## Day 10 - Recursion and Backtracking
+1 - Print all permutations of a string/array : [Problem](https://bit.ly/3fmwxNV) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-10/p1.py)
+
+2 - N queens Problem : [Problem](https://bit.ly/3zSZavC) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-10/p2.py)
+
+3 - Sudoku Solver : [Problem](https://bit.ly/31Z5Iwe) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-10/p3.py)
+
+4 - M coloring Problem : [Problem](https://bit.ly/3I48oI6) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-10/p4.py)
+
+5 - Rat in a Maze : [Problem](https://bit.ly/3fmwP7t) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-10/p5.py)
+
+6 - Word Break (print all ways) : [Problem](https://bit.ly/3FxgW92) | [Solution](https://github.com/codeash14/Strivers-SDE-Sheet/blob/main/Day-10/p6.py)
