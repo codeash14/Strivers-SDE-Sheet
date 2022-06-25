@@ -9,18 +9,21 @@ class Node:
         self.next = None
 
 
-def sortTwoLists(first, second):
+def sortTwoLists(list1,list2):
     # Write your code here.
-    if not first or not second:
-        return first or second
+    cur = dummy = Node(0)
+    while list1 and list2:               
+        if list1.data < list2.data:
+            cur.next = list1
+            list1, cur = list1.next, list1
+        else:
+            cur.next = list2
+            list2, cur = list2.next, list2
 
-    if first.data < second.data:
-        first.next = sortTwoLists(first.next, second)
-        return first
+    if list1 or list2:
+        cur.next = list1 if list1 else list2
 
-    else:
-        second.next = sortTwoLists(first, second.next)
-        return second
+    return dummy.next
 
 
 def ll(arr):

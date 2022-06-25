@@ -9,11 +9,12 @@
 
 *****************************************************************'''
 
-
 def reverseLinkedList(head):
-    if (head == None or head.next == None):
-        return head
-    rest = reverseLinkedList(head.next)
-    head.next.next = head
-    head.next = None
-    return rest
+    # Write your code here.
+    newHead=None
+    while head!=None:
+        temp=head.next
+        head.next=newHead
+        newHead=head
+        head=temp
+    return newHead
